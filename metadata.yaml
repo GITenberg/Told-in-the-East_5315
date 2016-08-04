@@ -1,0 +1,29 @@
+_repo: Told-in-the-East_5315
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mundy, Talbot
+    alias: Gribbon, William Lancaster
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '1481'
+    url: http://www.gutenberg.org/2009/agents/1481
+    wikipedia: http://en.wikipedia.org/wiki/Talbot_Mundy
+description: Hookum hai -- For the salt which he had eaten -- Mac Hassan Ah.
+gutenberg_bookshelf: Adventure
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- India -- Fiction'
+- !lcc 'PR'
+- !lcsh 'India -- Fiction'
+- GITenberg
+tableOfContents: Hookum hai -- For the salt which he had eaten -- Mac Hassan Ah.
+title: Told in the East
+url: http://www.gutenberg.org/ebooks/5315
