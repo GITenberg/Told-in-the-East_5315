@@ -1,5 +1,8 @@
 _repo: Told-in-the-East_5315
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mundy, Talbot
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1481
     wikipedia: http://en.wikipedia.org/wiki/Talbot_Mundy
 description: Hookum hai -- For the salt which he had eaten -- Mac Hassan Ah.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5315#Told-in-the-East
 gutenberg_bookshelf: Adventure
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
